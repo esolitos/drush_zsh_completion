@@ -10,11 +10,11 @@ Dursh autocomplete awesomeness for zsh.
 
 - Clone _drush\_zsh\_completion_
         
-        git clone https://github.com/webflo/drush_zsh_completion.git ~/.drush/drush_zsh
+        git clone https://github.com/esolitos/drush_zsh_completion.git ~/.drush/drush_zsh
 
 - Clone _zsh\_drush\_plugin_
 
-        git clone https://github.com/webflo/zsh_drush_plugin.git ~/.zsh/drush
+        git clone https://github.com/esolitos/zsh_drush_plugin.git ~/.zsh/drush
 
 - Load _zsh\_drush\_plugin_ in your ~/.zshrc (or ~/.zshrc.local). Copy & pase the following snippet.  
 
@@ -30,11 +30,11 @@ Dursh autocomplete awesomeness for zsh.
 
 - Clone _drush\_zsh\_completion_
 
-        git clone https://github.com/webflo/drush_zsh_completion.git ~/.drush/drush_zsh
+        git clone https://github.com/esolitos/drush_zsh_completion.git ~/.drush/drush_zsh
 
 - Clone _zsh\_drush\_plugin_
 
-        git clone https://github.com/webflo/zsh_drush_plugin.git ~/.oh-my-zsh/plugins/drush
+        git clone https://github.com/esolitos/zsh_drush_plugin.git ~/.oh-my-zsh/plugins/drush
 
 - Load _zsh\_drush\_plugin_ in your ~/.zshrc. Add 'drush' to plugins()
 
